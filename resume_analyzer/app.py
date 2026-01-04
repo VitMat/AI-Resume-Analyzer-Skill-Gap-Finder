@@ -1,1 +1,2 @@
-print("This is project 1")
+print("Hello world")
+print("This is the AI Resume Analyzer App")
