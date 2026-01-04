@@ -1,6 +1,0 @@
-print("Hello world")
-print("This is the AI Resume Analyzer App")
-print("Analyzing resumes made easy!")
-print("Upload your resume to get started.")
-print("Supported formats: PDF, DOCX, TXT")
-print("Thank you for using our service!")
